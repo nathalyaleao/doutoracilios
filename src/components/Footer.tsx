@@ -40,7 +40,7 @@ export const Footer = () => {
                 <Instagram size={18} strokeWidth={1.5} />
               </a>
               <a
-                href="https://wa.me/5592994152566"
+                href="https://wa.me/5592991598023"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group w-10 h-10 rounded-full border border-primary/20 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all duration-300 hover:scale-110 shadow-sm"
@@ -90,7 +90,7 @@ export const Footer = () => {
                 <div className="p-2 bg-primary/5 rounded-full text-primary group-hover:bg-primary group-hover:text-white transition-colors">
                      <Phone size={14} />
                 </div>
-                <span>(92) 99415-2566</span>
+                <span>(92) 99159-8023</span>
               </li>
               <li className="flex items-center gap-3 text-gray-500 group">
                 <div className="p-2 bg-primary/5 rounded-full text-primary group-hover:bg-primary group-hover:text-white transition-colors">
