@@ -25,12 +25,12 @@ export default {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "#C6A87C", // Cor Nude/Dourado
+          DEFAULT: "#881337", // <--- A COR DA DOUTORA (Marsala/Vinho)
           foreground: "#FFFFFF",
         },
         secondary: {
-          DEFAULT: "hsl(var(--secondary))",
-          foreground: "hsl(var(--secondary-foreground))",
+          DEFAULT: "#FFF1F2", // <--- ROSA BEM CLARINHO (Fundo suave)
+          foreground: "#881337",
         },
         destructive: {
           DEFAULT: "hsl(var(--destructive))",

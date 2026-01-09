@@ -2,7 +2,7 @@ import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/Hero";
 import { Services } from "@/components/Services";
 import { Tabs } from "@/components/Tabs";
-import { Pricing } from "@/components/Pricing";
+import { About } from "@/components/About"; // Pode deixar o import aqui, não atrapalha
 import { Testimonials } from "@/components/Testimonials";
 import { Blog } from "@/components/Blog";
 import { Contact } from "@/components/Contact";
@@ -15,7 +15,12 @@ const Index = () => {
       <Hero />
       <Services />
       <Tabs />
-      <Pricing />
+      
+      {/* COMENTEI AQUI PARA ESCONDER
+         Se ela pagar, é só apagar os sinais de { /* e * / } 
+      */}
+      {/* <About /> */}
+      
       <Testimonials />
       <Blog />
       <Contact />
