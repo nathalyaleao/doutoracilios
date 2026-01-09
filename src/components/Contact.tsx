@@ -34,7 +34,7 @@ export const Contact = () => {
           <div className="space-y-6">
             {/* Card WhatsApp */}
             <a 
-              href="https://wa.me/5592994152566" 
+              href="https://wa.me/5592991598023" 
               target="_blank" 
               rel="noreferrer"
               className="flex items-center gap-4 p-4 rounded-2xl bg-[#faf9f6] border border-transparent hover:border-primary/20 hover:bg-white hover:shadow-lg hover:shadow-primary/5 transition-shadow duration-300 group"
@@ -44,7 +44,7 @@ export const Contact = () => {
               </div>
               <div>
                 <p className="text-sm text-gray-500 font-medium">WhatsApp</p>
-                <p className="text-lg font-bold text-gray-900 group-hover:text-primary transition-colors">(92) 99415-2566</p>
+                <p className="text-lg font-bold text-gray-900 group-hover:text-primary transition-colors">(92) 99159-8023</p>
               </div>
             </a>
 
